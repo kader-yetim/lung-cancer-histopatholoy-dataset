@@ -59,3 +59,10 @@ dataset_root/
     │   └── ...
     └── ...
 ```
+
+
+## Dataset Access
+
+👉 You can download example data [here](#) (coming soon).
+
+👉 You can download the full dataset [here](#) (coming soon).
