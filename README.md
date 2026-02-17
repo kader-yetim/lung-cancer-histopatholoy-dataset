@@ -66,3 +66,6 @@ dataset_root/
 👉 You can download example data [here](#) (coming soon).
 
 👉 You can download the full dataset [here](#) (coming soon).
+
+## Acknowledgements
+Prepared in collaboration with the Medical Pathology Department of the Faculty of Medicine and the Department of Electronics and Communication Engineering of the Faculty of Engineering, Kocaeli University.
