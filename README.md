@@ -16,9 +16,7 @@ The **Cancer** class is further divided into three subtypes of lung cancer:
 The dataset is designed for deep learning and medical image analysis research.
 
 
-## 🖼️ Dataset Details
-
-![Patch Sample](sample_images/patch_example.tif)
+## Dataset Details
 
 - **Patch format:** .tif (TIFF)  
 - **Patch size:** 400×400 pixels  
@@ -29,7 +27,6 @@ The dataset is designed for deep learning and medical image analysis research.
 
 ## 📁 Dataset Structure
 - The dataset follows a class-wise and patient-wise hierarchical organization, as shown below:
-- 
 dataset_root/
 ├── Cancer/
 │ ├── ADENO/
