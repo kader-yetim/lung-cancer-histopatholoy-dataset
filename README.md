@@ -15,6 +15,7 @@ The **Cancer** class is further divided into three subtypes of lung cancer:
 
 The dataset is designed for deep learning and medical image analysis research.
 
+---
 
 ## Dataset Details
 
@@ -23,9 +24,9 @@ The dataset is designed for deep learning and medical image analysis research.
 - **Source:** Extracted from H&E-stained WSIs  
 - **Scan magnification:** 20×  
  
+---
 
-
-## 📁 Dataset Structure
+## Dataset Structure
 - The dataset follows a class-wise and patient-wise hierarchical organization, as shown below:
 
 ```
@@ -60,12 +61,15 @@ dataset_root/
     └── ...
 ```
 
+---
 
 ## Dataset Access
 
-👉 You can download example data [here](#) (coming soon).
+You can download example data [here](#) (coming soon).
 
-👉 You can download the full dataset [here](#) (coming soon).
+You can download the full dataset [here](#) (coming soon).
+
+---
 
 ## Acknowledgements
 Prepared in collaboration with the Medical Pathology Department of the Faculty of Medicine and the Department of Electronics and Communication Engineering of the Faculty of Engineering, Kocaeli University.
