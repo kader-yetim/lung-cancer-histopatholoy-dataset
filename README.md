@@ -1,22 +1,22 @@
-# lung-cancer-histopatholoy-dataset
+#✔️ lung-cancer-histopatholoy-dataset
 
-The Lung Cancer Pathology Dataset is a curated collection of H&E-stained whole-slide images (WSIs) of lung tissue, obtained from the Medical Pathology Department of Kocaeli University, Faculty of Medicine.
+- The Lung Cancer Histopathology Dataset is a curated collection of H&E-stained whole-slide images (WSIs) of lung tissue, obtained from the Medical Pathology Department of Kocaeli University, Faculty of Medicine.
 
-This dataset contains histopathological lung tissue WSI images categorized into **two main classes**:
+- This dataset contains histopathological lung tissue WSI images categorized into **two main classes**:
 
 🟥 **Cancer**
 
 🟩 **NonCancer**
 
-The **Cancer** class is further divided into three subtypes of lung cancer:
+The **Cancer class** is further divided into three subtypes of lung cancer:
 
- 🟦 **ADENO** – Adenocarcinoma
+ 🟦 **ADENO** ➜ (Adenocarcinoma)
  
- 🟪 **SCC** – Squamous Cell Carcinoma
+ 🟪 **SCC**   ➜ (Squamous Cell Carcinoma)
  
- 🟨 **NOS** – Not Otherwise Specified
+ 🟨 **NOS**   ➜ (Not Otherwise Specified)
 
-The dataset is designed for deep learning and medical image analysis research.
+- The dataset is designed for deep learning and medical image analysis research.
 
 ---
 
