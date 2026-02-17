@@ -1,6 +1,6 @@
 ## ✔️ lung-cancer-histopatholoy-dataset
 
-The Lung Cancer Histopathology Dataset was assembled from H&E-stained whole slide images (WSI) obtained from the Department of Medical Pathology, Faculty of Medicine, Kocaeli University.
+The Lung Cancer Histopathology Dataset was assembled from H&E-stained whole slide images (WSI) obtained from the Medical Pathology Department of Kocaeli University, Faculty of Medicine.
 
 This dataset contains histopathological lung tissue WSI images categorized into **two main classes**:
 
