@@ -15,10 +15,48 @@ The **Cancer** class is further divided into three subtypes of lung cancer:
 
 The dataset is designed for deep learning and medical image analysis research.
 
-## Dataset Details
+
+## 🖼️ Dataset Details
+
+![Patch Sample](sample_images/patch_example.tif)
 
 - **Patch format:** .tif (TIFF)  
 - **Patch size:** 400×400 pixels  
 - **Source:** Extracted from H&E-stained WSIs  
 - **Scan magnification:** 20×  
+ 
+
+
+## 📁 Dataset Structure
+- The dataset follows a class-wise and patient-wise hierarchical organization, as shown below:
+- 
+dataset_root/
+├── Cancer/
+│ ├── ADENO/
+│ │ ├── patient_001/
+│ │ │ ├── patch_001.tif
+│ │ │ ├── patch_002.tif
+│ │ │ └── ...
+│ │ ├── patient_002/
+│ │ │ └── ...
+│ │ └── ...
+│ ├── SCC/
+│ │ ├── patient_003/
+│ │ │ ├── patch_001.tif
+│ │ │ └── ...
+│ │ ├── patient_004/
+│ │ │ └── ...
+│ │ └── ...
+│ └── NOS/
+│ ├── patient_005/
+│ │ └── ...
+│ ├── patient_006/
+│ │ └── ...
+│ └── ...
+└── NonCancer/
+├── patient_007/
+│ └── ...
+├── patient_008/
+│ └── ...
+└── ...
 
