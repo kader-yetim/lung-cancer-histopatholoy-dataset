@@ -7,7 +7,7 @@ This dataset contains histopathological lung tissue images categorized into **tw
 - **Cancer**
 - **NonCancer**
 
-The Cancer class is further divided into three subtypes of lung cancer:
+The **Cancer** class is further divided into three subtypes of lung cancer:
 
   - **ADENO** – Adenocarcinoma
   - **SCC** – Squamous Cell Carcinoma
