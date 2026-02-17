@@ -14,3 +14,11 @@ The **Cancer** class is further divided into three subtypes of lung cancer:
   - **NOS** – Not Otherwise Specified
 
 The dataset is designed for deep learning and medical image analysis research.
+
+## Dataset Details
+
+- **Patch format:** .tif (TIFF)  
+- **Patch size:** 400×400 pixels  
+- **Source:** Extracted from H&E-stained WSIs  
+- **Scan magnification:** 20×  
+
