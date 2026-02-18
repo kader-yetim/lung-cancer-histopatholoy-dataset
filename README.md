@@ -16,7 +16,7 @@
  
 ♦️**NOS**   ➜ (Not Otherwise Specified)
  
-✔️ The dataset includes small Tru-cut and bronchoscopic lung biopsy samples obtained during the preoperative period.
+✔️ The dataset includes small Tru-cut and bronchoscopic lung biopsy samples.
 
 ✔️ The dataset is designed for deep learning and medical image analysis research.
 
