@@ -10,11 +10,11 @@
 
 ✔️ The **Cancer** class is further divided into three subtypes of lung cancer:
 
- 🔵 **ADENO** ➜ (Adenocarcinoma)
+♦️**ADENO** ➜ (Adenocarcinoma)
  
- 🟣 **SCC**   ➜ (Squamous Cell Carcinoma)
+♦️**SCC**   ➜ (Squamous Cell Carcinoma)
  
- 🟡 **NOS**   ➜ (Not Otherwise Specified)
+♦️**NOS**   ➜ (Not Otherwise Specified)
  
 ✔️ The dataset includes small Tru-cut and bronchoscopic lung biopsy samples obtained during the preoperative period.
 
