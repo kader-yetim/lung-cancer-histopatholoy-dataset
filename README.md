@@ -29,7 +29,7 @@
 🔸 **Source:** Extracted from H&E-stained WSIs  
 🔸 **Scan magnification:** 20×  
 
-🔸**Total number of patients and patches by class**
+🔸**Total number of patients and patches by class:**
 
 <img width="323" height="139" alt="image" src="https://github.com/user-attachments/assets/71333912-8928-422a-87a7-ff01ed6ef528" />
 
